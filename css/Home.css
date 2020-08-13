@@ -1,0 +1,118 @@
+.navbar {
+    text-align: center;
+    background-color: #82c9e0;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+.nav-link {
+    color: #fff;
+    text-decoration: none;
+}
+
+.header {
+    text-align: center;
+    font-family: sans-serif;
+    color: #828080;
+    background-color: #fff;
+    padding: 45px;
+    font-size: xx-large;
+}
+
+.Teachers {
+    text-align: center;
+    background-color: #0bdcdc;
+    color: #e2f6ff;
+    padding: 40px;
+    font-size: xx-large;
+}
+
+.w_button1 {
+    background-color: #fff;
+    color: #0bdcdc;
+    border-radius: 90px;
+    padding: 25px;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+.w_button1:hover {
+    color: #fff;
+    background-color: #0bdcdc;
+    border-color: #0bdcdc;
+}
+
+.Programs {
+    text-align: center;
+    background-color: #4dbff3;
+    color: #fff;
+    padding: 55px;
+    margin-top: 15px;
+    font-size: x-large;
+}
+
+.w_button2 {
+    background-color: #fff;
+    color: #4dbff3;
+    border-radius: 90px;
+    padding: 25px;
+    font-size: 25px;
+}
+
+.w_button2:hover {
+    color: #fff;
+    background-color: #4dbff3;
+    border-color: #4dbff3;
+}
+
+.Tutors {
+    text-align: center;
+    background-color: #08d8f3;
+    color: #ffffff;
+    padding: 45px;
+    margin-top: 15px;
+    font-size: x-large;
+}
+
+.w_button3 {
+    background-color: #fff;
+    color: #08d8f3;
+    border-radius: 90px;
+    padding: 25px;
+    font-size: 25px;
+}
+
+.w_button3:hover {
+    color: #fff;
+    background-color: #08d8f3;
+    border-color: #08d8f3;
+}
+
+.sumbit-btn {
+    display: block;
+}
+
+.signup {
+    text-align: center;
+    background-color: #0a616d;
+    color: #ffffff;
+    padding: 45px;
+    margin-top: 15px;
+    font-size: x-large;
+}
+
+input {
+    width: 40% !important;
+    display: inline !important;
+}
+
+#print_name {
+    margin: 20px 0;
+}
+
+.email {
+    display: block !important;
+    margin: 20px auto;
+}

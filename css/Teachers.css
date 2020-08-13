@@ -1,0 +1,43 @@
+.navbar {
+    text-align: center;
+    background-color: #82c9e0;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+.nav-link {
+    color: #fff;
+    text-decoration: none;
+}
+
+.all_teachers {
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    grid-gap: 40px;
+}
+
+.teacher {
+    grid-column-start: span 2;
+    border-radius: .25rem;
+}
+
+.Content {
+    width: 70%;
+    margin: auto;
+    padding: 20px;
+}
+
+.box {
+    display: inline-block;
+    background-color: #fff;
+    width: 300px;
+    border: 7px solid #589DE1;
+    padding: 25px;
+}
+
+.Search {
+    width: 100%;
+}
